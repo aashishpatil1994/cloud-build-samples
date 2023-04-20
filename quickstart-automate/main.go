@@ -19,5 +19,5 @@ import (
 )
 
 func main () {
-  fmt.Println("Hello, This is my new test for eventarc trigger project!")
+  fmt.Println("Hello, This is my new test for eventarc trigger project-new!")
 }
