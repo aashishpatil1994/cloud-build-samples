@@ -19,5 +19,5 @@ import (
 )
 
 func main () {
-  fmt.Println("Hello, my trigger fr gcflogtest project 1!")
+  fmt.Println("Hello, m test sasasasy trigger fr gcflogtest project 1!")
 }
